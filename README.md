@@ -1,1 +1,1 @@
-# algorithms_illuminated
+# Basic Algorithms
