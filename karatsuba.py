@@ -3,7 +3,7 @@
 """
 Created on Wed Nov  6 20:17:57 2019
 
-@author: efmcuiti
+@author: DaniPro
 """
 import math
 
